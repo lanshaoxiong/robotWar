@@ -1,0 +1,17 @@
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/obj/Debug/Assembly-CSharp.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/UnityEngine.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/UnityEditor.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Mono.Cecil.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Unity.DataContract.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/fashaoyou/Documents/unity project/Bobblehead Wars/Temp/bin/Debug/Mono.Cecil.Mdb.dll
